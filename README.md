@@ -1,4 +1,4 @@
-# CRM
+# webpack.config
 
 Basic webpack configuration for a static project
 
